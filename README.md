@@ -159,36 +159,3 @@ Each file focuses on **one algorithmic pattern**, includes:
 
 📄 File: `dynamic_programming.py`  
 🔗 LeetCode: 70, 322, 300, 1143
-
----
-
-## 🎯 Who Is This Repository For?
-
-- Software Engineers preparing for interviews
-- Competitive programmers
-- Students learning algorithms
-- Backend / Python developers
-- Anyone who wants to master algorithmic patterns
-
----
-
-## 🚀 How to Use
-
-1. Pick a pattern (e.g. Sliding Window)
-2. Study the template
-3. Practice related LeetCode problems
-4. Reuse the template in interviews
-
----
-
-## 📌 Philosophy
-
-> **Don’t memorize solutions.  
-> Understand patterns.  
-> Patterns scale.**
-
----
-
-## 📄 License
-
-MIT License
