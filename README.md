@@ -13,23 +13,6 @@ Each file focuses on **one algorithmic pattern**, includes:
 
 ---
 
-## 📂 Repository Structure
-
-algorithms/
-│
-├── sliding_window.py
-├── two_pointers.py
-├── slow_fast_pointers.py
-├── reverse_linked_list.py
-├── binary_search.py
-├── top_k_elements.py
-├── prefix_sum.py
-├── monotonic_stack.py
-├── dynamic_programming.py
-└── README.md
-
----
-
 ## 🧩 Algorithmic Patterns Covered
 
 ### 1️⃣ Sliding Window
